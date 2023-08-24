@@ -1,4 +1,5 @@
 # dgtl.vsn
+![movingwin](/Resources/GIFs/RecordingDetectorExampleGIF.gif)
 An object detection model for digital user interfaces
 
 ## Installation
